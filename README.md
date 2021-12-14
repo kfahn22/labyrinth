@@ -1,1 +1,3 @@
-# labyrinth
+# This respository contains my attempt at recreating a art piece that my husband and I made when we were first married using a p5.js sketch.  
+
+# I have created several different loop classes.  I am currently trying to figure out how to add sliders for each of the loop objects.  Because there will be a large number of loop objects I am trying to figure out how to create sliders when I click on an individual object and then double click to remove.  I am having trouble with this. If I add the slider during the mouseClicked event I end up with too many sliders.  If I add the slider within the class, the sliders don't control individual objects.
